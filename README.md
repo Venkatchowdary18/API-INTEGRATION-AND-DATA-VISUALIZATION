@@ -1,8 +1,8 @@
 *COMPANY*:CODTECH IT SOLUTIONS
 
-*NAME*:G.LAKSHMI NARAYANA REDDY
+*NAME*:G.
 
-*INTERN ID*:CT04DG508
+*INTERN ID*:
 
 *DOMAIN*:PYTHON PROGRAMMING
 
@@ -13,3 +13,6 @@
 Overview of the Project
 
  Task 1: API Integration and Data Visualization
+
+ output:
+ 
