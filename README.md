@@ -1,8 +1,8 @@
 *COMPANY*:CODTECH IT SOLUTIONS
 
-*NAME*:G.
+*NAME*:G.venkat
 
-*INTERN ID*:
+*INTERN ID*:CT04DZ1234
 
 *DOMAIN*:PYTHON PROGRAMMING
 
@@ -92,7 +92,7 @@ Advantages
  Contact
 For any questions or feedback, feel free to reach out to:  
 
-**G.**  
+**G.VENKAT**  
 **Company:** CODTECH IT SOLUTIONS  
-**Email:** @karunya.edu.in  
+**Email:**gonguntlavenkat@karunya.edu.in  
  
